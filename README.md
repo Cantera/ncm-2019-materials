@@ -49,9 +49,11 @@ Now you need to create a conda environment with all of the Python packages you w
 conda env create -f env-windows.yml
 ```
 
-The same command would apply for Linux or macOS, just substituting the `osname` part of the `.yml` file. Finally, to run the files for the Workshop, in the same Anaconda Prompt or terminal window, type
+The same command would apply for Linux or macOS, just substituting the `osname` part of the `.yml` file.
+Finally, to run the files for the Workshop, in the same Anaconda Prompt or terminal window, activate the newly created environment and start a Jupyter notebook by typing
 
 ```console
+conda activate cantera-workshop
 jupyter notebook
 ```
 
