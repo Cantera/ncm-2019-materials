@@ -37,7 +37,7 @@ Great! Now, you need to get the materials for the workshop. Head to https://gith
 
 Once the zip file finishes downloading, unzip it and remember where the files are.
 
-Open your terminal (Linux or macOS) or the Anaconda Prompt and use the `cd` command to change into the directory with the files you just cloned/unzipped. For instance, if you unzipped the files into your `Downloads` folder, then the command will look like:
+Open your terminal (Linux or macOS) or the Anaconda Prompt (Windows) and use the `cd` command to change into the directory with the files you just cloned/unzipped. For instance, if you unzipped the files into your `Downloads` folder, then the command will look like:
 
 ```console
 cd Downloads/ncm-2019-materials
@@ -88,6 +88,7 @@ cd Downloads/ncm-2019-materials
 Then, make sure everything is working right by running
 
 ```console
+conda activate cantera-workshop
 jupyter notebook
 ```
 
