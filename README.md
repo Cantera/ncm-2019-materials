@@ -26,6 +26,7 @@ Once you've installed Anaconda or Miniconda, open a terminal (on Linux or macOS)
 conda update -n base conda
 ```
 
+If this updates your version of conda, restart your terminal so that changes to your environment can take effect.
 Then, follow the instructions below to install Cantera.
 
 ### I installed Python with Anaconda or Miniconda
