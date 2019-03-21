@@ -57,7 +57,7 @@ conda activate cantera-workshop
 jupyter notebook
 ```
 
-This should automatically open a page in your web browser that shows you the files for the Workshop. Go ahead and click on one of the `python_tutorial.ipynb` file to open it. Then click the "Kernel" menu and select the "Restart & Run All" option to make sure that everything works properly!
+This should automatically open a page in your web browser that shows you the files for the Workshop. Go ahead and click the `python_tutorial.ipynb` file to open it. Then click the "Kernel" menu and select the "Restart & Run All" option to make sure that everything works properly!
 
 Hooray! You're all set! See you on Sunday!
 
@@ -91,9 +91,8 @@ Then, make sure everything is working right by running
 jupyter notebook
 ```
 
-from the same command prompt. This should automatically open a page in your web browser that shows you the files for the Workshop. Go ahead and click on one of the `.ipynb` files and click the "Run" button in the center of the resulting window to make sure that everything works properly!
+This should automatically open a page in your web browser that shows you the files for the Workshop. Go ahead and click the `python_tutorial.ipynb` file to open it. Then click the "Kernel" menu and select the "Restart & Run All" option to make sure that everything works properly!
 
 Hooray! You're all set! See you on Sunday!
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
