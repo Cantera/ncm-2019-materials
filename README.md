@@ -33,7 +33,7 @@ Then, follow the instructions directly below ("I installed Python with Anaconda 
 
 Great! Now, you need to get the materials for the workshop. Head to https://github.com/Cantera/ncm-2019-materials (you might already be reading this on that site) and find the "Clone or Download" button. If you have git installed on your computer, you can clone the repository. If you don't, or don't know what cloning means, don't worry! Click the green button, then click "Download ZIP", as shown in the picture below:
 
-![Download a Zip of the repository](download-repo-zip.png)
+![Download a Zip of the repository](images/download-repo-zip.png)
 
 Once the zip file finishes downloading, unzip it and remember where the files are.
 
@@ -57,7 +57,7 @@ conda activate cantera-workshop
 jupyter notebook
 ```
 
-This should automatically open a page in your web browser that shows you the files for the Workshop. Go ahead and click the `python_tutorial.ipynb` file to open it. Then click the "Kernel" menu and select the "Restart & Run All" option to make sure that everything works properly!
+This should automatically open a page in your web browser that shows you the files for the Workshop. Go ahead and click the `01_cantera_basics.ipynb` file to open it. Then click the "Kernel" menu and select the "Restart & Run All" option to make sure that everything works properly!
 
 Hooray! You're all set! See you on Sunday!
 
@@ -75,7 +75,7 @@ pip install pandas matplotlib notebook
 
 Great! Now, you need to get the materials for the workshop. Head to https://github.com/Cantera/ncm-2019-materials (you might already be reading this on that site) and find the "Clone or Download" button. If you have git installed on your computer, you can clone the repository. If you don't, or don't know what cloning means, don't worry! Click the green button, then click "Download ZIP", as shown in the picture below:
 
-![Download a Zip of the repository](download-repo-zip.png)
+![Download a Zip of the repository](images/download-repo-zip.png)
 
 Once the zip file finishes downloading, unzip it and remember where the files are.
 
@@ -92,7 +92,7 @@ conda activate cantera-workshop
 jupyter notebook
 ```
 
-This should automatically open a page in your web browser that shows you the files for the Workshop. Go ahead and click the `python_tutorial.ipynb` file to open it. Then click the "Kernel" menu and select the "Restart & Run All" option to make sure that everything works properly!
+This should automatically open a page in your web browser that shows you the files for the Workshop. Go ahead and click the `01_cantera_basics.ipynb` file to open it. Then click the "Kernel" menu and select the "Restart & Run All" option to make sure that everything works properly!
 
 Hooray! You're all set! See you on Sunday!
 
