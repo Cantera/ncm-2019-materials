@@ -27,7 +27,7 @@ conda update -n base conda
 ```
 
 If this updates your version of conda, restart your terminal so that changes to your environment can take effect.
-Then, follow the instructions below to install Cantera.
+Then, follow the instructions directly below ("I installed Python with Anaconda or Miniconda") to install Cantera.
 
 ### I installed Python with Anaconda or Miniconda
 
@@ -85,7 +85,7 @@ Open your command prompt and use the `cd` command to change into the directory w
 cd Downloads/ncm-2019-materials
 ```
 
-Then, make sure everything is working right by running
+Finally, to run the files for the Workshop, in the same Anaconda Prompt or terminal window, activate the newly created environment and start a Jupyter notebook by typing
 
 ```console
 conda activate cantera-workshop
