@@ -19,7 +19,7 @@ dependencies:
   - icu=58.2
   - intel-openmp=2019.1
   - ipykernel=5.1.0
-  - ipython=7.3.0
+  - ipython=7.1.1
   - ipython_genutils=0.2.0
   - jedi=0.13.3
   - jinja2=2.10
