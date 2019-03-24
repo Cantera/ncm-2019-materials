@@ -63,6 +63,7 @@ dependencies:
   - pytz=2018.9
   - pyzmq=18.0.0
   - readline=7.0
+  - scipy=1.2.1
   - send2trash=1.5.0
   - setuptools=40.8.0
   - six=1.12.0
