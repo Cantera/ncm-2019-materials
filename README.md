@@ -20,7 +20,7 @@ If you do not have Python or Cantera installed on your computer, we recommend th
 * [Anaconda installer](https://www.anaconda.com/distribution/)
 * [Miniconda installer](https://docs.conda.io/en/latest/miniconda.html)
 
-Once you've installed Anaconda or Miniconda, open a terminal (on Linux or macOS) or the Anaconda Prompt (on Windows) and type
+Make sure to download the Python 3 version of the installer! Once you've installed Anaconda or Miniconda, open a terminal (on Linux or macOS) or the Anaconda Prompt (on Windows) and type
 
 ```console
 conda update -n base conda
